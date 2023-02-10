@@ -1,4 +1,6 @@
-# Projeto Lista de Filmes
+# Film List
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/eduvinagre/pen/VwBVMLZ](https://codepen.io/eduvinagre/pen/VwBVMLZ).
+A public film list where anyone can add and contribute to it.
+
+Made for Alura's Imersion week.
 
